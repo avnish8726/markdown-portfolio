@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+you can see my other image [Github profile](https://github.com/avnish8726)
